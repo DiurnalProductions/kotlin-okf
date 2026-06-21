@@ -1,0 +1,8 @@
+{
+  "id": "kotlin-okf",
+  "name": "Kotlin Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for Kotlin (language fundamentals, type system, coroutines, collections, and ecosystem)",
+  "entry": "index.md",
+  "tags": ["kotlin", "programming", "coroutines", "jvm", "functional"]
+}
